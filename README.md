@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning MERN stack
 
-### Github stats
+#### Github stats
 ![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anusha-007&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anusha-007&show_icons=true&theme=merko)
