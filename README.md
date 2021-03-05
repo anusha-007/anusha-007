@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-..*🌱 I’m currently learning MERN stack
+*🌱 I’m currently learning MERN stack
 
-..* 📫 How to reach me: ramaduguanusha123@gmail.com
+* 📫 How to reach me: ramaduguanusha123@gmail.com
 
 #### Github stats
 ![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anusha-007&show_icons=true&theme=radical&count_private=true&hide=stars)
