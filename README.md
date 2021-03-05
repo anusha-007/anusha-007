@@ -1,4 +1,5 @@
 ### Hi Anusha here 👋
+<hr style="border:2px solid gray"> </hr>
 
 <!--
 **anusha-007/anusha-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
