@@ -1,4 +1,4 @@
-### Hi Anusha here 👋
+### Hi am Anusha Ramadugu! 👋
 <hr style="border:2px solid gray"> </hr>
 
 <!--
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anusha-007&show_icons=true&theme=radical&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anusha-007&show_icons=true&theme=merko)
 
-[you can checkout my blog](https://ramaduguanusha123.medium.com/how-we-cloned-the-monster-india-website-by-collaborating-remotely-46860af43470)
+[You can check my blog here!](https://ramaduguanusha123.medium.com/how-we-cloned-the-monster-india-website-by-collaborating-remotely-46860af43470)
