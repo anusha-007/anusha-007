@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Inquisitive and enthusiastic full stack web developer, Highly interested in programming. Looking to collaborate on a web app.
+#### Inquisitive and enthusiastic full stack web developer, Highly interested in programming. 
+Looking to collaborate on a web app.
 
 
 <hr style="border:2px solid gray"> </hr>
