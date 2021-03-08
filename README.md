@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 #### Inquisitive and enthusiastic full stack web developer, Highly interested in programming. 
-####Looking to collaborate on a web app.
+#### Looking to collaborate on a web app.
 
 
 <hr style="border:2px solid gray"> </hr>
