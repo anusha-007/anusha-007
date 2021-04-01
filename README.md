@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anusha-007)
 ### Hi am Anusha Ramadugu! 👋
 <hr style="border:2px solid gray"> </hr>
 
